@@ -1,0 +1,1 @@
+void grayParallel(unsigned char* data, unsigned char* gray, int height, int width, int channels);
